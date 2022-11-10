@@ -1,5 +1,5 @@
 import axios from "axios";
-const baseUrl = "http://localhost:3008/api/adopciones";
+const baseUrl = "https://api-mascotas-production.up.railway.app//api/adopciones";
 
 export const postAdoptar = async ({ registro }) => {
   console.log(registro);
