@@ -1,7 +1,7 @@
-import { useEffect } from "react";
+// import { useEffect } from "react";
 
 // import swal from "sweetalert";
-import { postAdoptar } from "../services/adopcion.services";
+// import { postAdoptar } from "../services/adopcion.services";
 
 export function FormModalAdopcion({
   formAdopModal,
